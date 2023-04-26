@@ -5,6 +5,7 @@
 - 🌱 Aprendendo Python e Java
 
 <br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohenriquejh&theme=tokyonight&show_icons=true&card_width=500)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/joaohenriquejh))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenriquejh&theme=tokyonight&card_width=500)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/joaohenriquejh))

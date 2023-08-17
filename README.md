@@ -1,7 +1,7 @@
 ### Olá, eu sou João Henrique! Seja bem-vindo ao meu GitHub. Sinta-se à vontade!
 
 
-- 🔭 Atualmente estou aperfeiçoando meus estudos e graduando o 5º período em Sistemas de Informação na UNIRIOS
+- 🔭 Atualmente estou aperfeiçoando meus estudos e graduando o 6º período em Sistemas de Informação na UNIRIOS
 - 🌱 Aprendendo Python e Java
 
 <br>
